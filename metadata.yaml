@@ -1,0 +1,31 @@
+_repo: The-Old-Masters-and-Their-Pictures-For-the-Use-of-Schools-and-Learners-in-Art_19863
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tytler, Sarah
+    aliases:
+    - Keddie, Henrietta
+    - Tytler, Sara
+    birthdate: 1827
+    deathdate: 1914
+    gutenberg_agent_id: '2248'
+    url: http://www.gutenberg.org/2009/agents/2248
+description: ''
+gutenberg_issued: '2006-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19863'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painting -- History'
+- !lcsh 'Painters'
+- !lcc 'ND'
+title: The Old Masters and Their Pictures, For the Use of Schools and Learners in
+  Art
+url: http://www.gutenberg.org/ebooks/19863
