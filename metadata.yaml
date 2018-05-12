@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '2248'
     url: http://www.gutenberg.org/2009/agents/2248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19863#The-Old-Masters-and-Their-Pictures-For-the-Use-of-Schools-and-Learners-in-Art
 gutenberg_issued: '2006-11-19'
 gutenberg_type: Text
 identifiers:
